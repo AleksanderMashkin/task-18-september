@@ -1,0 +1,15 @@
+/Users/aleksandrmaskin/Desktop/контрольная работа/bin/Debug/net6.0/контрольная работа
+/Users/aleksandrmaskin/Desktop/контрольная работа/bin/Debug/net6.0/контрольная работа.deps.json
+/Users/aleksandrmaskin/Desktop/контрольная работа/bin/Debug/net6.0/контрольная работа.runtimeconfig.json
+/Users/aleksandrmaskin/Desktop/контрольная работа/bin/Debug/net6.0/контрольная работа.dll
+/Users/aleksandrmaskin/Desktop/контрольная работа/bin/Debug/net6.0/контрольная работа.pdb
+/Users/aleksandrmaskin/Desktop/контрольная работа/obj/Debug/net6.0/контрольная работа.csproj.AssemblyReference.cache
+/Users/aleksandrmaskin/Desktop/контрольная работа/obj/Debug/net6.0/контрольная работа.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrmaskin/Desktop/контрольная работа/obj/Debug/net6.0/контрольная работа.AssemblyInfoInputs.cache
+/Users/aleksandrmaskin/Desktop/контрольная работа/obj/Debug/net6.0/контрольная работа.AssemblyInfo.cs
+/Users/aleksandrmaskin/Desktop/контрольная работа/obj/Debug/net6.0/контрольная работа.csproj.CoreCompileInputs.cache
+/Users/aleksandrmaskin/Desktop/контрольная работа/obj/Debug/net6.0/контрольная работа.dll
+/Users/aleksandrmaskin/Desktop/контрольная работа/obj/Debug/net6.0/refint/контрольная работа.dll
+/Users/aleksandrmaskin/Desktop/контрольная работа/obj/Debug/net6.0/контрольная работа.pdb
+/Users/aleksandrmaskin/Desktop/контрольная работа/obj/Debug/net6.0/контрольная работа.genruntimeconfig.cache
+/Users/aleksandrmaskin/Desktop/контрольная работа/obj/Debug/net6.0/ref/контрольная работа.dll
